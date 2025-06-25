@@ -1,0 +1,67 @@
+Data Structures [Daily 1 hour, 1 month]
+Data Structure Concepts
+   What?
+   Why?
+Pre requisits
+   revision of C lang concepts
+   I/O
+   control statements
+   Arrays
+   Functions
+   structures
+   pointer
+Types of DS
+   Static and Dynamic
+   Linear and Non-Linear
+Stack (implementation using arrays)
+   Stack Rules
+   Operations on stack
+   implementation of stack in general programming
+Queues (implementation using arrays)
+   Queue concept
+   Opeations on a queue
+   Types of queues 
+   Circular queue
+Dynamic Memory Allocation (DMA)
+   malloc()
+   free()
+   calloc()
+   realloc()
+Linked List
+   importance and operations on a linked list
+   Single linked list
+      Add at beginning, end, position
+      Delete at beginning, end, position
+      Search / Display
+      Problems to solve
+   Double linked list
+      Add at beginning, end, position
+      Delete at beginning, end, position
+      Search / Display
+   Circular linked list
+      Circular single linked list
+      Circular double linked list
+  	 Add at beginning, end, position
+         Delete at beginning, end, position
+         Search / Display
+   Stack implementation (using linked list)
+   Queue implementation (using linked list)
+Trees
+   Trees concept
+   Teminologies used in trees
+   Types of trees
+   Binary search trees
+     Operations on it
+   Heap trees
+   Priority queues
+Searching techniques
+   Linear search
+   Binary search
+Sorting Techniques
+   Selection sort
+   Bubble sort
+   Insertion sort
+   Merge sort
+   Quick sort
+   Heap sort
+------------------------------
